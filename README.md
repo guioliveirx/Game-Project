@@ -6,9 +6,14 @@
 
 Projeto desenvolvido para desafiar minhas habilidades em JavaScript [AnimeFight](https://anime-fight.vercel.app/).
 
-Página estática desenvolvida em `HTML`, `CSS` e `JavaScript`. O projeto teve como objetivo treinar as minhas habilidades em JavaScript no começo dos meus estudos na linguagem. Foram empregadas nele técnicas como: `Manipulação de DOM`, `Classes e Objetos`, `Eventos`, `SetInterval e ClearInterval` entre outros. 
+Esta página estática foi construída em HTML, CSS e JavaScript, com o objetivo de treinar conceitos fundamentais da linguagem durante o início dos meus estudos. Durante o desenvolvimento, apliquei técnicas como:
 
-A princípio o projeto foi pensado apenas para dispositivos desktops, então não foram utilizadas técnicas de responvidade.
+- `Manipulação de DOM`
+- `Classes e Objetos`
+- `Eventos`
+- `SetInterval e ClearInterval`
+
+A princípio, o projeto foi pensado para desktops, e por isso <strong>não foram aplicadas técnicas de responsividade</strong>.
 ## Visualizando o projeto
 
 <div align="center">
@@ -16,6 +21,8 @@ A princípio o projeto foi pensado apenas para dispositivos desktops, então nã
 </div>   
 
 ## Deploy
+
+<img height="20" src="https://skillicons.dev/icons?i=vercel"/> Vercel
 
 Para acessar o deploy: [AnimeFight](https://anime-fight.vercel.app/).
 
